@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&family=Lato:wght@300&family=Oswald:wght@200;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/* navigations links */
+
+#menu {
+    font-family: Cormorant SC;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #323234;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #121112;
+}
+
+/* logo */
+
+#logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+/* banner */
+
+#banner {
+    max-width: 100%;
+}
+
+
+
+
