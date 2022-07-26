@@ -47,6 +47,17 @@
     max-width: 100%;
 }
 
+/* first text section */
+
+#section1 {
+    width: 300px;
+    margin-top: 10px;
+    margin-right: 20px;
+    float: right;
+}
+
+
+
 
 
 
