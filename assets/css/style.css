@@ -106,3 +106,16 @@ footer {
 .social-media a:hover {
   font-size: 180%;  
 }
+
+/* gallery */
+
+.photo {
+   column-count: 4; 
+   line-height: 0;
+   column-gap: 0;
+   clear: both;
+}
+
+.photo > section > img {
+    width: 100%;
+}
