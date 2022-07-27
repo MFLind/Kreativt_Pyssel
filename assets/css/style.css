@@ -89,6 +89,6 @@ footer {
     color: #323234;
 }
 
-
-
-
+.social-media a:hover {
+  font-size: 180%;  
+}
