@@ -31,21 +31,24 @@
                </ul> 
             </nav>
         </header>
-        <form action="#" method="POST">
-            <label for="fname">First Name:</label>
-            <input type="text" id="fname">
+        <section class="form-section">
+            <form action="#" method="POST" class="contact-form">
 
-            <label for="lname">Last Name:</label>
-            <input type="text" id="lname">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="first_name" required class="text-input">
 
-            <label for="email">Email:</label>
-            <input type="email" id="email">
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="last_name" required class="text-input">
 
-            <label for="question">Question:</label>
-            <input type="text" id="question">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required class="text-input">
 
-            <input type="submit" value="Submit">
-        </form>
+                <label for="question">Question</label>
+                <input type="text" id="question" name="question" equired class="text-input">
+
+                <input type="submit" class="join-button" value="Submit">
+            </form>
+        </section>
     <footer>
         <ul class="social-media">
             <li>
