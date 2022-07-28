@@ -116,7 +116,7 @@ footer {
    clear: both;
 }
 
-.photo > section > img {
+.photo > div > img {
     width: 100%;
 }
 
