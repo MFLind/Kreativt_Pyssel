@@ -15,19 +15,32 @@ The "Kreativt Pyssel" website is a landing page representing information about m
 
 ## Page: Home
 * The main pages gives a about us information.
+* Header shows the logo and navigation bar.
+* Navigation bar has hover visualisation of mouse over selection.
+* A banner showing small collection of creations
+* Social media links to Official Instagram page and Twitter.
+* Social media link to LinkedIn goes only to login page of LinkedIn (as we don't have a LinkedIn page yet!)
 
 ![image](https://user-images.githubusercontent.com/106115510/181469691-a0300e4a-82a9-4cd1-8b25-1afb1f87cf85.png)
 
 
 ## Page: Gallery
 * The Gallery page visualizes some of the creations we have done.
+* Header shows the logo and navigation bar.
+* Navigation bar has hover visualisation of mouse over selection.
+* Social media links to Official Instagram page and Twitter.
+* Social media link to LinkedIn goes only to login page of LinkedIn (as we don't have a LinkedIn page yet!)
 
 ![image](https://user-images.githubusercontent.com/106115510/181469822-afb90203-cb40-4541-aee9-8ba1ce926bfa.png)
 
 
 ## Page: Contact
-* The gives the visitor are contact form to put questions to "Kreativt Pyssel" and contact us.
 * The form validates all the field that they are required and also that email field has correct email address.
+* Header shows the logo and navigation bar.
+* Navigation bar has hover visualisation of mouse over selection.
+* Social media links to Official Instagram page and Twitter.
+* Social media link to LinkedIn goes only to login page of LinkedIn (as we don't have a LinkedIn page yet!)
+* The gives the visitor are contact form to put questions to "Kreativt Pyssel" and contact us.
 
 ![image](https://user-images.githubusercontent.com/106115510/181469918-bb674047-f86c-4531-84b7-a44a08526456.png)
 
