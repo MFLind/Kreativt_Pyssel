@@ -125,11 +125,13 @@ footer {
 .contact-form {
     margin: 150px 10% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(20, 20, 20, 0.6);
     max-width: 400px;
     position: absolute;
     left: 10%;
     padding: 30px;
+    z-index: 1;
+    top: 10%;
 }
 .text-input {
     background: transparent;
@@ -147,7 +149,14 @@ footer {
     padding: 10px 25px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: black;
     color: #fafafa;
     display: block;
+}
+
+/* contackt backrund photo */
+
+#backrund {
+    max-width: 100%;
+    z-index: -1;
 }
