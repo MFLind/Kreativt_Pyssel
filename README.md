@@ -13,13 +13,24 @@ The "Kreativt Pyssel" website is a landing page representing information about m
 
 ![image](https://user-images.githubusercontent.com/106115510/181459136-eebef787-194b-47fa-9cd9-89c3970190ef.png)
 
-## Page: About Us
+## Page: Home
+* The main pages gives a about us information.
+
+![image](https://user-images.githubusercontent.com/106115510/181469691-a0300e4a-82a9-4cd1-8b25-1afb1f87cf85.png)
 
 
 ## Page: Gallery
+* The Gallery page visualizes some of the creations we have done.
+
+![image](https://user-images.githubusercontent.com/106115510/181469822-afb90203-cb40-4541-aee9-8ba1ce926bfa.png)
 
 
-## Page: Contact Us
+## Page: Contact
+* The gives the visitor are contact form to put questions to "Kreativt Pyssel" and contact us.
+* The form validates all the field that they are required and also that email field has correct email address.
+
+![image](https://user-images.githubusercontent.com/106115510/181469918-bb674047-f86c-4531-84b7-a44a08526456.png)
+
 
 ## Testing
 * I tested the pages in different browsers: Chrome, Safari, Firefox
