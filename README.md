@@ -2,6 +2,8 @@
 
 The "Kreativt Pyssel" website is a landing page representing information about makers loving to create and make stuff in knitting, crochet, origami and pearl art.
 
+![Skärmavbild 2022-07-28 kl  10 53 04](https://user-images.githubusercontent.com/106115510/182080612-71afc878-9faa-4f84-9066-8c8e8c822b2f.png)
+
 # Features
 ## Navigation
 * Top of the page the "Kreativt Pyssel" logo is shown with linking back to main page
